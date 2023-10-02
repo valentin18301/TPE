@@ -3,9 +3,9 @@
     "productos": [
         {
             "id": 1,
-            "nombre": "silla",
-            "descripcion": "realizadas madera",
-            "precio": 40.000
+            "nombre": "Producto 1",
+            "descripcion": "Descripción del Producto 1",
+            "precio": 19.99
         },
         {
             "id": 2,
