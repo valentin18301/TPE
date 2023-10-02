@@ -19,5 +19,7 @@ Para utilizar nuestra plataforma de comercio electrónico, siga estos sencillos 
 
 6. **Confirmación de Pedido:**
     - Recibirá una confirmación por correo electrónico con los detalles de su pedido.
+7. **Reembolsos y cambios** 
+    - Los reembolsos se realizan con un plazo de 15 dias despues del reclamo, lo mismo que el cambio.
 
 ¡Disfrute de su experiencia de compra!
