@@ -1,4 +1,4 @@
-// Script para la funcionalidad del carrito de compras
+// Script para la funcionalidad de nuestro carrito de compras
 const addToCartButton = document.querySelector('button');
 
 addToCartButton.addEventListener('click', () => {
