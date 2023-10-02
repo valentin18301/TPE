@@ -1,5 +1,5 @@
 // Script para la funcionalidad de navegación
-const productsLink = document.querySelector('a[href= "carrito.js"]');
+const productsLink = document.querySelector('a[href="productos.html"]');
 
 productsLink.addEventListener('click', (event) => {
     event.preventDefault();
